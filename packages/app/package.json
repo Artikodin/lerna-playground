@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@lerna-repo/utils-a": "1.0.0",
-    "@lerna-repo/utils-b": "1.0.0"
+    "@lerna-repo/utils-a": "^1.0.0",
+    "@lerna-repo/utils-b": "^1.0.0"
   },
   "author": "",
   "license": "ISC"
